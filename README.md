@@ -22,7 +22,7 @@ If you have any question , please contact me at yuqunzhang@GolGrin.com
 3. Install the required packages:
 
 ```bash
-git clone https://github.com/YuqunZhang/Table-Data-Annotation-Tool.git
+git clone https://github.com/YuqunZhang/Table-Dataset-Annotation-Tool.git
 cd Table-Data-Annotation-Tool
 pip install -r requirements.txt
 python -m src.main
