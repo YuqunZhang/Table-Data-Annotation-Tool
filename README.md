@@ -21,6 +21,8 @@ A GUI tool for annotating tabular data with support for both categorical and fre
 3. Install the required packages:
 
 ```bash
+git clone https://github.com/YuqunZhang/Table-Data-Annotation-Tool.git
+cd Table-Data-Annotation-Tool
 pip install -r requirements.txt
 python -m src.main
 ```
