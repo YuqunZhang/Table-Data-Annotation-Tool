@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="data-annotation-tool",
+    name="Table-Dataset-Annotation-Tool",
     version="1.0.0",
     description="A GUI tool for annotating tabular data",
     long_description=open("README.md").read(),
