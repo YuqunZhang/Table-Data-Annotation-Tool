@@ -6,8 +6,8 @@ setup(
     description="A GUI tool for annotating tabular data",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Yuqun Zhang",
+    author_email="yuqunzhang@GolGrin.com",
     packages=find_packages(),
     install_requires=[
         "pandas>=1.3.0",
