@@ -1,7 +1,7 @@
 # Data Annotation Tool
 
 A GUI tool for annotating tabular data with support for both categorical and free-text labels.<br>
-If you have any question , please contact at yuqunzhang@GolGrin.com
+If you have any question , please contact me at yuqunzhang@GolGrin.com
 
 ## Features
 
